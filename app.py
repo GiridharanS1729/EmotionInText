@@ -133,16 +133,18 @@ def main():
             left: 0;
             bottom: 0;
             width: 100%;
-            height:30px;
-            background-color: #272727;
-            color: #ff0;
+            height:40px;
+            background-color:#262730;
+            color: #ff5;
             text-align: center;
-            margin-left:140px;
             padding:5px 10px;
+        }
+        .footer p{
+            font-size:20px;
         }
         </style>
         <div class="footer">
-            <p>Created by Giridharan S | © 2024 All Rights Reserved</p>
+            <p>CodeCreators © 2024</p>
         </div>
         """,
         unsafe_allow_html=True

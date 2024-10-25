@@ -87,7 +87,7 @@ def main():
 
     else:
         add_page_visited_details("About", datetime.now(IST))
-        st.subheader("Created by Giridharan S")
+        # st.subheader("Created by Giridharan S")
 
         st.write("Welcome to the Emotion Detection in Text App! This application utilizes the power of natural language processing and machine learning to analyze and identify emotions in textual data.")
 

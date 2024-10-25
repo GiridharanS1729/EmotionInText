@@ -1,0 +1,25 @@
+Emotion-Detection-in-Text
+├── .devcontainer
+│   └── devcontainer.json
+├── .gitignore
+├── app.py
+├── data
+│   ├── data.db
+│   ├── emotion_dataset.csv
+│   └── emotion_dataset_raw.csv
+├── emotion_classifier_pipe_lr.pkl
+├── ff.md
+├── images
+│   ├── Emotion-Classifier-Metrics.png
+│   ├── index.png
+│   ├── Page-Metrics-1.png
+│   └── Page-Metrics-2.png
+├── models
+│   └── emotion_classifier_pipe_lr.pkl
+├── notebooks
+│   ├── .ipynb_checkpoints
+│   │   └── Emotion Detection in Text-checkpoint.ipynb
+│   └── Emotion Detection in Text.ipynb
+├── README.md
+├── requirements.txt
+└── track_utils.py

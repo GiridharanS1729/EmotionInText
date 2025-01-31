@@ -6,6 +6,11 @@
 
 <br>
 
+## Try it out!
+The application is hosted and available at: [Emotion in Text App](https://emotiontext.streamlit.app/)
+
+<br>
+
 # Introduction
 Emotion detection in text data involves identifying the emotions expressed in textual data. This can be a challenging task since emotions are often expressed in complex and subtle ways. Natural language processing (NLP) techniques can be used to analyze text data and identify the emotions expressed in it.
 

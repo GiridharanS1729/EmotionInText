@@ -144,7 +144,7 @@ def main():
         }
         </style>
         <div class="footer">
-            <p>CodeCreators © 2024</p>
+            <p>Giridharan S © 2024</p>
         </div>
         """,
         unsafe_allow_html=True
